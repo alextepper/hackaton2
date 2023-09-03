@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="236a9122-fe84-4958-a138-a107abd6fa83" name="Changes" comment="Hackaton 2 initiation" />
+=======
+    <list default="true" id="236a9122-fe84-4958-a138-a107abd6fa83" name="Changes" comment="Hackaton 2 initiation">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+>>>>>>> origin/master
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -140,7 +146,11 @@
       <updated>1693587290222</updated>
       <workItem from="1693587297764" duration="7518000" />
       <workItem from="1693641598922" duration="36985000" />
+<<<<<<< HEAD
       <workItem from="1693758845018" duration="1114000" />
+=======
+      <workItem from="1693758845018" duration="805000" />
+>>>>>>> origin/master
     </task>
     <task id="LOCAL-00001" summary="Hackaton 2 initiation">
       <option name="closed" value="true" />
@@ -150,6 +160,7 @@
       <option name="project" value="LOCAL" />
       <updated>1693743933099</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00002" summary="Hackaton 2 initiation">
       <option name="closed" value="true" />
       <created>1693759960716</created>
@@ -159,6 +170,9 @@
       <updated>1693759960716</updated>
     </task>
     <option name="localTasksCounter" value="3" />
+=======
+    <option name="localTasksCounter" value="2" />
+>>>>>>> origin/master
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
